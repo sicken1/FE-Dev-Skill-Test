@@ -6,7 +6,7 @@ component/page using **HTML**, **CSS**, and **JavaScript** while following clean
 ---
 
 ## 🚀 Live Demo (GitHub Pages)
-Link: *(Insert your GitHub Pages link here)*
+Link: *[(https://sicken1.github.io/FE-Dev-Skill-Test/)]*
 
 ---
 
